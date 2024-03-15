@@ -1,0 +1,1 @@
+print("Este es un ejemplo de un archivo en python")
